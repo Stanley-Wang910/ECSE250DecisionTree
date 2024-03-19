@@ -258,6 +258,7 @@ public class DecisionTree implements Serializable {
 	}
 
 
+
 	//Given two DecisionTree objects, this method checks if both the trees are equal by
 	//calling onto the DTNode.equals() method
 	public static boolean equals(DecisionTree dt1,  DecisionTree dt2)

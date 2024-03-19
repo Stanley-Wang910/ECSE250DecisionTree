@@ -5,6 +5,7 @@ import java.util.Arrays;
 
 
 class ReadFile {
+
     public static String localDir = System.getProperty("user.dir");
     //You might need to change these based on your operating system.
     public static String base = localDir + "/src/data/";

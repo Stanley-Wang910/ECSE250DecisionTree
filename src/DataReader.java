@@ -108,6 +108,7 @@ public class DataReader {
         DecisionTree object1 = null;
         try
         {
+
             // Reading the object from a file
             FileInputStream file = new FileInputStream(filename);
             ObjectInputStream in = new ObjectInputStream(file);

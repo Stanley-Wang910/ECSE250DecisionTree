@@ -7,6 +7,7 @@ public class Datum {
 	int y;     // the label
 
 
+
 	Datum(double[] x,int y) {
 		this.x = new double[x.length];
 		for (int i = 0 ; i< x.length ; i++){
