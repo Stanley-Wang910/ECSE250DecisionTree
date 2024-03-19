@@ -1,4 +1,3 @@
-Decision Tree Classifier for Color Classification
 Project Overview
 This project implements a decision tree classifier in Java designed to classify the color of a circle based on its spatial location. Utilizing binary decision trees, the classifier was developed as part of the ECSE 250 course assignment during the Fall 2023 term. The main goals included understanding and applying decision trees to solve classification problems, manipulating trees using recursion, and addressing the challenge of overfitting through early stopping criteria.
 
